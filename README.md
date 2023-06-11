@@ -4,8 +4,6 @@
 
 课程介绍 [【bilibili链接】](www.baidu.com)
 
-图像分类任务介绍 [【bilibili链接】](www.baidu.com)
-
 AlexNet论文：摘要 [【bilibili链接】](www.baidu.com)
 
 AlexNet论文：介绍 [【bilibili链接】](www.baidu.com)
