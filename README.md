@@ -4,7 +4,7 @@
 
 课程介绍 [【bilibili链接】](https://www.bilibili.com/video/BV1kk4y1n7Mn/)
 
-AlexNet论文：摘要 [【bilibili链接】](https://www.bilibili.com/video/BV1kk4y1n7Mn/)
+AlexNet论文：摘要 [【bilibili链接】](https://www.bilibili.com/video/BV1Lh4y1X7bS/)
 
 AlexNet论文：介绍 [【bilibili链接】](https://www.bilibili.com/video/BV17z4y1i7Wg/)
 
