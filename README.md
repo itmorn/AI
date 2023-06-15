@@ -56,7 +56,7 @@ VGG论文：精讲：多尺度推理 [【bilibili链接】](https://www.bilibili
 
 VGG论文：多crop推理、模型集成、论文总结 [【bilibili链接】](https://www.bilibili.com/video/BV1zV4y1m7tc/)
 
-
+VGG代码：torchvision实现版本：网络定义与前向传播 [【bilibili链接】](https://www.bilibili.com/video/BV11o4y1N7CQ/)
 
 
 
