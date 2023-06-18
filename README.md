@@ -58,15 +58,17 @@ VGG论文：多crop推理、模型集成、论文总结 [【bilibili链接】](h
 
 VGG代码：torchvision实现版本：网络定义与前向传播 [【bilibili链接】](https://www.bilibili.com/video/BV11o4y1N7CQ/)
 
+Network in Network(NIN)论文：摘要 [【bilibili链接】](https://www.bilibili.com/video/BV1eh4y137JG/)
 
+Network in Network(NIN)论文：介绍 [【bilibili链接】](https://www.bilibili.com/video/BV1yo4y1A7kG/)
 
+Network in Network(NIN)论文：传统CNN的回顾与问题 [【bilibili链接】](https://www.bilibili.com/video/BV1fP411i774/)
 
+Network in Network(NIN)论文：MLP层与1×1的卷积层实现特征交叉的等价性 [【bilibili链接】](https://www.bilibili.com/video/BV1Wg4y1K7Sx/)
 
+Network in Network(NIN)论文：全局平均池化(global average pooling) [【bilibili链接】](https://www.bilibili.com/video/BV1cm4y1e7LC/)
 
+Network in Network(NIN)论文：特征图被GAP转成置信图的可视化解释 [【bilibili链接】](https://www.bilibili.com/video/BV18k4y1M7Dh/)
 
-
-
-
-
-
+Network in Network(NIN)论文：结论 [【bilibili链接】](https://www.bilibili.com/video/BV1iX4y147qf/)
 
